@@ -1,0 +1,11 @@
+.folderWrapper,
+.fileWrapper {
+  display: flex;
+  align-items: center;
+}
+
+.fileIcon,
+.folderIcon {
+  width: 1rem;
+  margin-right: 0.3rem;
+}
